@@ -1,2 +1,2 @@
 # program4
-this is the first github repository
+this is my first Github repository
